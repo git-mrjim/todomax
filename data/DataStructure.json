@@ -1,0 +1,102 @@
+{
+    "id": 72365354572,
+    "isThemeDark": true,
+    "firstname": "Some firstname",
+    "lastname": "Some lastname",
+    "auth": {
+        "email": "useremail@email.com",
+        "password": "GrX4ea&%#$W4ac"
+    },
+    "task": [
+        {
+            "title": "Task Title",
+            "difficulty": 2,
+            "todo": [
+                {
+                    "difficulty": 1,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 2,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 3,
+                    "do": "Some todo task"
+                }
+            ]
+        },
+        {
+            "title": "Task Title",
+            "difficulty": 1,
+            "todo": [
+                {
+                    "difficulty": 1,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 1,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 2,
+                    "do": "Some todo task"
+                }
+            ]
+        },
+        {
+            "title": "Task Title",
+            "difficulty": 3,
+            "todo": [
+                {
+                    "difficulty": 2,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 2,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 1,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 1,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 3,
+                    "do": "Some todo task"
+                }
+            ]
+        },
+        {
+            "title": "Task Title",
+            "difficulty": 1,
+            "todo": [
+                {
+                    "difficulty": 3,
+                    "do": "Some todo task"
+                }
+            ]
+        },
+        {
+            "title": "Task Title",
+            "difficulty": 2,
+            "todo": [
+                {
+                    "difficulty": 2,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 1,
+                    "do": "Some todo task"
+                },
+                {
+                    "difficulty": 2,
+                    "do": "Some todo task"
+                }
+            ]
+        }
+    ]
+}
